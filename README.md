@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhaan</h1>
 <h3 align="center">Studying computer science for cybersecurity at university, and doing a java development bootcamp on udemy, I love networking, and secure cloud infrastructure. I am familiar in full stack development and cybersecurity.</h3>
-
-- 🌱 I’m currently improving my skills in Java Programming
   
 - 🔭 I’m currently studying a [Java Development Bootcamp](https://www.udemy.com/course/the-complete-java-development-bootcamp/?couponCode=25BBPMXINACTIVE)
 
