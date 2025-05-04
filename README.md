@@ -17,7 +17,7 @@
 
 •	Java, JUnit and Python.  
 •	SQL, phpMyAdmin and XAMPP.  
-•	HTML, CSS and Tailwind.
+•	HTML, CSS and Tailwind.<br>
 •	JavaScript and PHP.  
 •	Windows and Debian-based Linux OSs.  
 •	Microsoft Word and PowerPoint.<br>
