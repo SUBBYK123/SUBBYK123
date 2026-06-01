@@ -2,7 +2,7 @@
 <h3 align="center">Bachelours Degree in Computer Science for Cyber Security, and studying CompTIA Security+ Certification, <BR>I love networking, and secure cloud infrastructure. I am familiar in full stack development and cybersecurity.</h3>
   
 - 🔭 I’m currently studying [CompTIA Security+ Certification](https://www.comptia.org/en-gb/certifications/security/?_gl=1*cyytax*_up*MQ..*_ga*OTg5NTM2NTM1LjE3ODAzMjc4OTQ.*_ga_Z1ZV6990VN*czE3ODAzMjc4OTMkbzEkZzAkdDE3ODAzMjc4OTMkajYwJGwwJGgzMTI3MTQ5MDYkZE5ud0dhUWVydGhCTnhobTNRMmh2c09Ic3U3RHRxcmVQcnc.)
-- Also studying [Java Development Bootcamp](https://www.udemy.com/course/the-complete-java-development-bootcamp/?couponCode=25BBPMXINACTIVE)
+- 📚 Also studying [Java Development Bootcamp](https://www.udemy.com/course/the-complete-java-development-bootcamp/?couponCode=25BBPMXINACTIVE)
 
 - 🤝 I have worked in a team to develop a full stack website in [EnterpriseProCW1](https://github.com/SUBBYK123/EnterpriseProCW1)
 
